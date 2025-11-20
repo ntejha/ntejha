@@ -1,16 +1,29 @@
-## Hi there 👋
+# **Hi, I'm Tejha 👋**
 
-<!--
-**ntejha/ntejha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer who enjoys building clean, practical, and useful projects. I focus on backend development, data engineering concepts, and learning how systems work end-to-end.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 **Tech Stack**
+
+* **Languages:** Python, JavaScript, SQL
+* **Tools:** Docker, Git, Linux
+* **Areas of Interest:** Backend Development, Data Engineering, Cloud, Automation
+
+---
+
+## 🚀 **What I'm Doing**
+
+* Learning system design and production-level data engineering
+* Building small projects to strengthen real-world problem-solving
+
+---
+
+## 📫 **Contact**
+
+* Email: ntejha04@gmail.com
+* LinkedIn: www.linkedin.com/in/ntejha
+
+---
+
+
